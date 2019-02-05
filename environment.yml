@@ -9,4 +9,7 @@ dependencies:
     - pandas
     - fileupload
     - ipywidgets
+    - jupyter_contrib_nbextensions
+    - widgetsnbextension
+    - markdown
     
