@@ -4,9 +4,9 @@ channels:
 dependencies:
   - python
   - numpy
+  - appmode
   - pip:
     - pandas
-    - appmode
     - fileupload
     - ipywidgets
     
